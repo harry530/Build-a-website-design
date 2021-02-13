@@ -1,0 +1,39 @@
+
+
+.title-h1{
+    font: normal 700 26px/40px var(--robotoslab);
+    color: var(--title-color1);
+}
+.title-h2{
+    font: normal 500 18px/20px var(--poppinslight);
+    color: var(--title-color2);
+}
+
+p.para{
+    color: var(--text-color);
+    font: normal 600 14px/25px var(--poppins);
+    text-align: justify;
+}
+
+.text-uppercase{
+    text-transform: uppercase;
+}
+
+.main {
+    width: 90%;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid var(--primary-color4);
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.font-label {
+    font-size: ùgem;
+}
+
+.italic {
+    font-style: italic;
+}

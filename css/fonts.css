@@ -1,0 +1,54 @@
+/* @font-face */ 
+
+@font-face {
+    font-family: "Nunito Sans";
+    src: url('../fonts/NunitoSans-Regular.ttf');
+}
+
+@font-face {
+    font-family: "Erika";
+    src: url('../fonts/Erika\ Type.ttf');
+}
+
+@font-face {
+    font-family: "ErikaBold";
+    src: url('../fonts/Erika\ Type_B.ttf');
+}
+
+@font-face {
+    font-family: "ErikaItalic";
+    src: url('../fonts/Erika\ Type_I.ttf');
+}
+
+@font-face{
+    font-family: "RobotoSlab";
+    src: url('../fonts/RobotoSlab-VariableFont_wght.ttf');
+};
+
+
+@font-face {
+    font-family: "Poppins";
+    src: url('../fonts/Poppins-Regular.ttf');
+}
+
+@font-face {
+    font-family: "Poppins-Italic";
+    src: url('../fonts/Poppins-Italic.ttf');
+}
+
+@font-face {
+    font-family: "Poppins-Bold";
+    src: url('../fonts/Poppins-Bold.ttf');
+}
+
+@font-face {
+    font-family: "Times New Roman";
+    src: url('../fonts/OPTITimes-Roman.otf');
+}
+
+@font-face {
+    font-family: "Franklin";
+    src: url('../fonts/Franklin\ Gothic\ Medium\ Regular.ttf');
+}
+
+

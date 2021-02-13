@@ -1,0 +1,36 @@
+
+html, body{
+    margin: 0%;
+    box-sizing: border-box;
+    width: 100%;
+    height: 100%;
+}
+
+
+:root{
+    --primary-color1: #2d5dcc;
+    --primary-color2: #d957d9;
+    --primary-color3: #4fe0b0;
+    --primary-color4: #efd9ca;
+    --title-color1: #f70909;
+    --title-color2: #03c013;
+    --text-color: #201c1c;  
+    --border-color: #201f1f17;  
+    --gradient-color: linear-gradient(90deg, #4458dc 0%, #854fee 100%);
+    --shadow-color:  0px 10px 30px rgba(118, 85, 225, 0.3);
+    --box-shadow: 0px 10px 30px rgba(57, 56, 61, 0.205);
+
+
+    /* font family variables. */ 
+    --robotoslab: 'RobotoSlab';
+    --nunitsans: 'Nunito Sans';
+    --poppins: 'Poppins';
+    --poppinsitalic: 'Poppins-Italic';
+    --poppinsbold: 'Poppins-Bold';
+    --erika: 'Erika';
+    --erikabold: 'ErikaBold';
+    --erikaitalic: 'ErikaItalic';
+    --timesnewroman: 'Times New Roman';
+    --franklin: 'Franklin';
+} 
+
